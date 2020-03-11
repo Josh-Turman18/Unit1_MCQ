@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\n\ Runs\ each\ of\ the\ questions\n\n\ @\ Josh\ Turman\n\ @\ 1.0\n
+comment1.params=
+comment1.target=Start()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Start\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
