@@ -27,5 +27,8 @@ public class Start
        
        question3_solution.go();
        question5_solution.go();
+       question6_solution.original();
+       question6_solution.corrected();
+       
     }
 }
